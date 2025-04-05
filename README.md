@@ -1,3 +1,4 @@
 # New-Repository
-Repository exercise 
-Learning git
+# Repository exercise 
+# Learning git
+git clone <repo-url>
