@@ -2,3 +2,8 @@
 # Repository exercise 
 # Learning git
 git clone <https://github.com/makwatik/New-Repository>
+
+# New file
+git add hello.txt
+git commit -m "Added hello.txt"
+git push origin main
